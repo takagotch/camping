@@ -51,7 +51,6 @@ end
 def r500(klass, method, ex)
   "Sorry, but #{klass}##{method} failed with #{ex}."
 end
-
 ```
 
 ```sh
